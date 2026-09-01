@@ -5,7 +5,7 @@
   A smart speaker is an AI-enabled electronic device that accepts voice commands from
 users and provides appropriate responses or performs actions. Examples include smart
 speakers such as Amazon Echo, Google Nest, and Apple HomePod.
-Smart speakers combine several AI technologies to understand human speech,
+Smart speakers combine several AI technologies to understand human speech
 identify the user's intention, search for information, control smart devices, play music,
 set reminders, and answer questions.
 
